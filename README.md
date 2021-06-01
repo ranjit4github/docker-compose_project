@@ -22,8 +22,8 @@ Check the containers if everything fine
 
 # Step 5:
 Get the IP address of the server where the containers running and hit into the browser.
-http://<ip-address>
-http://<ip-address>:82
+http://ip-address
+http://ip-address:82
   
 It will open up the application running inside the container.
   
